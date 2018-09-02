@@ -34,7 +34,7 @@ date
 ```shell 
 sudo adduser grader
 #to create the user
-chage chage -d 0 grader
+sudo chage -d 0 grader
 #to make grader change its pw at first login
 sudo usermod -aG sudo grader
 #to grant sudo to grader, add it to Sudoers
