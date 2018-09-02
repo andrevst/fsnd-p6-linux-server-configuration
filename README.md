@@ -21,6 +21,7 @@ Public IP: 54.236.62.234
 ```shell
 sudo apt-get update
 sudo apt-get upgrade
+sudo apt-get dist-upgrade
 ```
 3. Configure timezone to UTC
 ```shell
