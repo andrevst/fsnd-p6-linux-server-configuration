@@ -6,7 +6,7 @@ A baseline installation of a Linux server and prepare it to host my web applicat
 
 APP: [Starship catalog app running](http://ec2-54-236-62-234.compute-1.amazonaws.com/starships/)
 
-Public IP: 54.236.62.234
+Public IP: 54.236.62.234 (RIP)
 
 ## Objectives of the project
 
